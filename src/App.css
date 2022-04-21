@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+  
+  color: rgb(241, 113, 38);
+}
+span::after{
+  content: "__________________________________________";
+  color: #000;
+  display: block;
+  margin-top: -10px;
+  font-size: 10px;
+  
+
+}
+div button{
+  margin-left: 48%;
+}
+
+
+
